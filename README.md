@@ -1,3 +1,5 @@
+This is a fork of the mini framework to modify it to how I like to see things. Apparently this is not truly the MVC way but it fits my needs, wishes and shortcomings.
+
 [![MINI - A naked barebone PHP application](_installation/php-mini.png)](http://www.php-mini.com)
 
 # MINI
